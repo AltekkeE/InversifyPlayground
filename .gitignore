@@ -1,0 +1,11 @@
+node_modules
+dist
+typings
+uploads
+mocha.json
+*.log
+sessions
+
+
+coverage
+.nyc_output
